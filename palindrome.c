@@ -6,10 +6,10 @@ pali(){
     int i, length;
     int flag = 0;
     
+    <!--Demo on Githubhooks-->
+    
     printf("\n\nEnter a string:");
     scanf("%s", string1);
-    
-    <!--Demo on Githubhooks-->
     
     length = strlen(string1);
     
