@@ -9,6 +9,8 @@ pali(){
     printf("\n\nEnter a string:");
     scanf("%s", string1);
     
+    <!--Demo on Githubhooks-->
+    
     length = strlen(string1);
     
     for(i=0;i < length ;i++){
